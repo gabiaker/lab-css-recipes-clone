@@ -1,0 +1,30 @@
+
+.recipe {
+    text-align: center;
+}
+
+.recipe-title {
+    font-size: 64px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);   
+}
+
+#ing-pic {
+    text-align: center;
+}
+
+.ingredients {
+    position:  center;
+}
+
+.recipe-img {
+    width: fit-content;
+    max-width: 100%;
+}
+
+#recipe-disc {
+    text-align: center;
+}
